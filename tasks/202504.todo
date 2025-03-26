@@ -1,7 +1,2 @@
 [ ] 1. Create a registration form for user signup
-   [ ] 1.1 Include fields: First Name, Last Name, Email, Password
-   [ ] 1.2 Validate input fields (e.g., required fields, email format, password strength)
-   [ ] 1.3 Display error messages for invalid inputs
-   [ ] 1.4 Submit form data to the backend `/users/register` endpoint
-   [ ] 1.5 Show success or error messages based on the backend response
-
+s
