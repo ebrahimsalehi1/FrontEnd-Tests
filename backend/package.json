@@ -1,0 +1,25 @@
+{
+  "name": "my-backend-project",
+  "version": "1.0.0",
+  "description": "Backend system for user management with authentication and authorization",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^2.0.7",
+    "supertest": "^7.1.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}

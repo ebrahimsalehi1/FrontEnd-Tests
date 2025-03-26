@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="SBAiu6qXOIykSa23cnsI" name="Task-1">
+        <mxGraphModel dx="1105" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 17px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;First Name&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="55.6" y="600" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 17px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); line-height: 17px;&quot;&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;Last Name&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="55.6" y="640" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 17px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); line-height: 17px;&quot;&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;Email&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="55.6" y="680" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 17px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); line-height: 17px;&quot;&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;Password&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="55.6" y="720" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 17px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); line-height: 17px;&quot;&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;Reenter Password&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="55.6" y="760" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Register" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="195.6" y="810" width="105.5" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="185.6" y="606.56" width="168.8" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="185.6" y="686.56" width="168.8" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="185.6" y="646.56" width="168.8" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="185.6" y="726.56" width="168.8" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="185.6" y="766.56" width="168.8" height="16.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Task 1&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Title: Create a Registration Form for User Signup&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Description:&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a user, I want to enter my first name, last name, email, and password in a registration form and click the &quot;Register&quot; button to create a profile. After confirming my email, I should be able to log in to the system.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Acceptance Criteria:&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;- When: The user enters an email, it should be validated to ensure it is in a valid email format.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;- When: The password must be at least 8 characters long.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;- When: The &quot;Re-enter Password&quot; field must match the &quot;Password&quot; field.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;- When: The user clicks the &quot;Register&quot; button, the form should send a request to the `/users/register` endpoint.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;- When: Based on the response from the `/users/register` endpoint, the following should happen:&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; - 200: Display a success message (&quot;Registration successful&quot;) and route the user to the `/main` page.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; - 500: Display an error message (&quot;An error occurred. Please try again.&quot;) or provide an option to report the error.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="4.4" width="520" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="520" width="370" height="480" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

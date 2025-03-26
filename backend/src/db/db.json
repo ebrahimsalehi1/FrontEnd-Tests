@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@example.com",
+      "password": "$2b$10$EIXZ5G5z1E1g8g5g5g5Oe5g5g5g5g5g5g5g5g5g5g5g5g5",
+      "confirmationDate": "2025-03-26"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alicejohnson@example.com",
+      "password": "$2b$10$EIXZ5G5z1E1g8g5g5g5Oe5g5g5g5g5g5g5g5g5g5g5g5g5",
+      "confirmationDate": null
+    }
+  ]
+}
